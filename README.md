@@ -1,4 +1,8 @@
-## Rust Notes
+## Hello Rust
+
+This project was built for the [hello world](https://doc.rust-lang.org/book/ch01-02-hello-world.html) section of 'the book'.
+
+#### Create new Rust project using cargo
 
 - We can create a project using `cargo new`.
 - We can build a project using `cargo build`.
